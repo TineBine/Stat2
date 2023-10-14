@@ -1,3 +1,3 @@
 # Stat2
 
-Repozitorj za domačo nalogo pri predmetu Statistika 2
+Repozitorij za domačo nalogo pri predmetu Statistika 2
